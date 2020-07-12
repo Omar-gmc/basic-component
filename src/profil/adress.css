@@ -1,0 +1,12 @@
+h2{
+    margin:50px
+}
+p {
+    width: 300px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  font-weight: bolder;
+  font-size: x-large;
+
+}
